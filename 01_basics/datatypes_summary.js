@@ -71,6 +71,8 @@ console.log(OneMoreName);
 
 OneMoreName = "Ruchi"
 
+
+
 /* Now
  Firstname -> Prabhat
  OneMoreName -> Ruchi
@@ -79,12 +81,17 @@ OneMoreName = "Ruchi"
 
 // In HeapMemory we get the references , which means 
 
+
+
 let UserOne = {
     email : "abc@gmail.com",
     upi : "abc123"
 }
 
 console.log(UserOne);
+
+
+
 
 /*         _________________________________
 UserOne -> |    {                           |
@@ -97,8 +104,13 @@ UserOne -> |    {                           |
            Now its visible that the UserOne is having the refference on one heap memory
 */
 
+
+
 let UserTwo = UserOne
 console.log(UserTwo);
+
+
+
 
 /*         _________________________________
 UserOne -> |    {                           |
@@ -111,11 +123,19 @@ UserTwo -> |    email : "abc@gmail.com",    |
            Now its visible that the UserOne and userTwo both having the refference on one heap memory
 */
 
+
+
+
 UserTwo.email="Ruchi@gmail.com"
+
+
+
 
 /*
 Now SInce we have the refernce of same heap memory so it would update accordingly
 */
+
+
 
 console.log(UserOne.email);
 console.log(UserTwo.email);
