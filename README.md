@@ -47,15 +47,16 @@
 >>>
 >>
 > 
-> Javascript is a **dynamicaaly typed language**, because if we do `(const = 100)` then that data type of const would be `int`, but we have not mentoned it to be `int` or `String`, hence it is a dynamic langugae. 
-
-
-// we cant go back and check the data type again and again so we have a fucntion *typeof* which helps to know the type of the data we are using 
-
-console.log(typeof myFunction)
-console.log(typeof SuperHeroes)
-console.log(typeof student)
-
+> Javascript is a **Dynamicaaly typed language**, because if we do `(const = 100)` then that data type of const would be `int`, but we have not mentoned it to be `int` or `String`, hence it is a dynamic langugae. 
+>
+>we cant go back and check the data type again and again so we have a fucntion `typeof` which helps to know the type of the data we are using 
+>
+>> `console.log(typeof myFunction)`
+>>
+>>`console.log(typeof SuperHeroes)`
+>>
+>>`console.log(typeof student)`
+>
 
 
 
