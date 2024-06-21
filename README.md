@@ -23,11 +23,20 @@
 >
 >> - ***Array***
 >>
+>>>const SuperHeroes = ["shaktiman","hulk","Thor"]
+>>>
+>>>console.log(SuperHeroes)
 >> - ***Objects***
 >>
 >> - ***Functions***
 >>
 >
+>>> 
+
+
+
+
+
 
 // Array
 
