@@ -89,7 +89,7 @@
 >>>
 >>> `console.log(UserOne);`
 >>>
->>> ![Image](Images/Screenshot 2024-06-21 171654.png)
+>>> ![Image](/Images/Screenshot 2024-06-21 171654.png)
 
 
 
