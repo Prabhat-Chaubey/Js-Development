@@ -1,5 +1,5 @@
 # Js-Development
-## 1. Data Types Summary
+# 1. Data Types 
 
 Data is categorized into two type **Primitive/value** type and **Non-Primitive/Reference** type there are **7 types** of
 **Primitve data type** 
@@ -49,8 +49,8 @@ we cant go back and check the data type again and again so we have a fucntion `t
 >
 >`console.log(typeof student)`
 >
-### 1.2 Stack and Heap memory 
-
+## 1.2 Stack and Heap memory 
+***
 There are two storage ways, stack and heap memory type
 - ***Stack Memory (In primitive Types)***
 - ***Heap Memory (In Non-Primitive Types)***
@@ -100,7 +100,7 @@ In HeapMemory we get the references , which means
 >
 > would have the same output as `Ruchi@gmail.com`
 
-### **1.3 String**
+## **1.3 String**
 ***
 `Const name = "Prabhat"`
 <br>
