@@ -2,22 +2,15 @@
 ## 1. Data Types Summary
 
 Data is categorized into two type **Primitive/value** type and **Non-Primitive/Reference** type there are **7 types** of
->**Primitve data type** 
->> - ***String*** 
->> 
->> - ***Number***
->>  
->> - ***Bolean***
->>  
->>- ***Null***
->> 
->> - ***Undefined***
->> 
->> - ***Symbol***
->> 
->> - ***BigInt***
->
->
+**Primitve data type** 
+- ***String*** 
+- ***Number***  
+- ***Bolean***  
+- ***Null***
+- ***Undefined*** 
+- ***Symbol***
+- ***BigInt***
+
 > **Non primitive/reference types**
 >
 >> - ***Array***
