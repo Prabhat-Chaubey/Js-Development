@@ -56,7 +56,8 @@ There are two storage ways, stack and heap memory type
 - ***Heap Memory (In Non-Primitive Types)***
 
 - **Stack Memory**
-  In stack memory we get the copy and not the original one 
+<br>
+In stack memory we get the copy and not the original one 
 
 > `let Firstname = "Prabhat";`
 >
@@ -71,31 +72,31 @@ There are two storage ways, stack and heap memory type
 > `OneMoreName = "Ruchi"`
 > Now, Firstname -> Prabhat , OneMoreName -> Ruchi ,Because we made changes in the copy
 
->> **Heap Memory**
->>>In HeapMemory we get the references , which means 
->>>
->>>`let UserOne = {email : "abc@gmail.com",upi : "abc123"}`
->>>
->>> `console.log(UserOne);`
->>>
->>> ![Alt](/Images/Heapmemory1.png)
->>>
->>>
->>> `let UserTwo = UserOne`
->>>
->>> `console.log(UserTwo);`
->>>
->>> ![Alt](/Images/heapmemory2.png)
->>>
->>> `UserTwo.email="Ruchi@gmail.com"`
->>>
->>> **Now SInce we have the reference of same heap memory so it would update accordingly**
->>>
->>> `console.log(UserOne.email);`
->>>
->>> `console.log(UserTwo.email);`
->>>
->> would have the same output as `Ruchi@gmail.com`
+ - **Heap Memory**
+<br>
+In HeapMemory we get the references , which means 
+>`let UserOne = {email : "abc@gmail.com",upi : "abc123"}`
+>
+> `console.log(UserOne);`
+>
+> ![Alt](/Images/Heapmemory1.png)
+>
+>
+> `let UserTwo = UserOne`
+>
+> `console.log(UserTwo);`
+>
+> ![Alt](/Images/heapmemory2.png)
+>
+> `UserTwo.email="Ruchi@gmail.com"`
+>
+> **Now SInce we have the reference of same heap memory so it would update accordingly**
+>
+> `console.log(UserOne.email);`
+>
+> `console.log(UserTwo.email);`
+>
+> would have the same output as `Ruchi@gmail.com`
 
 ### **String**
 ***
