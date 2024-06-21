@@ -1,8 +1,7 @@
 # Js-Development
 ## 1. Data Types Summary
 
->Data is categorized into two type **Primitive/value** type and **Non-Primitive/Reference** type there are **7 types** of
->
+Data is categorized into two type **Primitive/value** type and **Non-Primitive/Reference** type there are **7 types** of
 >**Primitve data type** 
 >> - ***String*** 
 >> 
