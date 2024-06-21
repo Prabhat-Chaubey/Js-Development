@@ -100,6 +100,8 @@ In HeapMemory we get the references , which means
 >
 > would have the same output as `Ruchi@gmail.com`
 
-### **String**
+### **1.3 String**
 ***
+`Const name = "Prabhat"`
+`Const repocount = 10`
 
