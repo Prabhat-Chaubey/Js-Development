@@ -13,31 +13,31 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 
 **Non primitive/reference types** 
 <br>
-> - ***Array***
+ - ***Array***
+
+> `const SuperHeroes = ["shaktiman","hulk","Thor"]`
 >
->> `const SuperHeroes = ["shaktiman","hulk","Thor"]`
->>
->> `console.log(SuperHeroes)`
+> `console.log(SuperHeroes)`
+
+ - ***Objects***
+
+> `let student = {name : "prabhat",age : 12,division : "c",rollcall : 77}`
 >
-> - ***Objects***
+> `console.log(student)`
+> 
+> `console.log(student.name)`
+
+ - ***Functions***
+
+> `const myFunction = function(){`
 >
->> `let student = {name : "prabhat",age : 12,division : "c",rollcall : 77}`
->>
->> `console.log(student)`
->> 
->> `console.log(student.name)`
+>    `console.log("hello fucntion")`
 >
-> - ***Functions***
+> `}`
+> 
+> `myFunction();`
 >
->> `const myFunction = function(){`
->>
->>    `console.log("hello fucntion")`
->>
->> `}`
->> 
->> `myFunction();`
->>
->
+
  
  Javascript is a **Dynamicaaly typed language**, because if we do `(const = 100)` then that data type of const would be `int`, but we have not mentoned it to be `int` or `String`, hence it is a dynamic langugae. 
 >
