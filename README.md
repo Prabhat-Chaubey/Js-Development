@@ -26,15 +26,15 @@
 >>> `const SuperHeroes = ["shaktiman","hulk","Thor"]`
 >>>
 >>> `console.log(SuperHeroes)`
+>>
 >> - ***Objects***
 >>
->>>let student = {
-    name : "prabhat",
-    age : 12,
-    division : "c",
-    rollcall : 77
-}
+>>> `let student = {name : "prabhat",age : 12,division : "c",rollcall : 77}`
 >>>
+>>> `console.log(student)`
+>>> 
+>>> `console.log(student.name)`
+>>
 >> - ***Functions***
 >>
 >
@@ -45,10 +45,7 @@
 
 
 
-// Array
 
-const SuperHeroes = ["shaktiman","hulk","Thor"]
-console.log(SuperHeroes)
 
 // objects
 
