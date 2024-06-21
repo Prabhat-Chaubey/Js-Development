@@ -74,7 +74,9 @@ In stack memory we get the copy and not the original one
 
  - **Heap Memory**
 <br>
-In HeapMemory we get the references , which means 
+In HeapMemory we get the references , which means
+<br>
+
 >`let UserOne = {email : "abc@gmail.com",upi : "abc123"}`
 >
 > `console.log(UserOne);`
