@@ -15,14 +15,17 @@
 >> - ***Symbol***
 >> 
 >> - ***BigInt***
-
-
-
-
-
-*/
-
-// non primitive/reference type 
+>
+>
+> **Non primitive/reference types**
+>
+>> - ***Array***
+>>
+>> - ***Objects***
+>>
+>> - ***Functions***
+>>
+>
 
 // Array
 
