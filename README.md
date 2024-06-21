@@ -49,7 +49,7 @@ we cant go back and check the data type again and again so we have a fucntion `t
 >
 >`console.log(typeof student)`
 >
-### Stack and Heap memory 
+### 1.2 Stack and Heap memory 
 
 There are two storage ways, stack and heap memory type
 - ***Stack Memory (In primitive Types)***
