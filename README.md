@@ -6,15 +6,15 @@
 >> 
 >> - Number
 >>  
->>*Bolean
+>> - Bolean
 >>  
->>*null
+>>- null
 >> 
->>*undefined
+>> - undefined
 >> 
->>*Symbol
+>> - Symbol
 >> 
->>*BigInt
+>> - BigInt
 
 */
 
