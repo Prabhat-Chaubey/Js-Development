@@ -42,8 +42,11 @@
 >>>    `console.log("hello fucntion")`
 >>>
 >>> `}`
-myFunction();
 >>> 
+>>> `myFunction();`
+>>>
+>>
+> 
 
 
 
@@ -53,13 +56,7 @@ myFunction();
 
 
 
-// functons
 
-
-const myFunction = function(){
-    console.log("hello fucntion")
-}
-myFunction();
 
 // javascript is a dynamicaaly typed language, because if we do (const = 100) then that data type of const would be int, but we have not mentoned it to be int or String, hnce iit is a dynamic langugae 
 
