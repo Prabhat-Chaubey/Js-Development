@@ -89,7 +89,7 @@
 >>>
 >>> `console.log(UserOne);`
 >>>
->>> ![Alt](/Images/Screenshot 2024-06-21 171654.png)
+>>> ![Alt](/Images/heapmemory2.png)
 
 
 
