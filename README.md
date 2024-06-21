@@ -10,8 +10,9 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 - ***Undefined*** 
 - ***Symbol***
 - ***BigInt***
+
+**Non primitive/reference types** 
 <br>
-**Non primitive/reference types** <br>
 > - ***Array***
 >
 >> `const SuperHeroes = ["shaktiman","hulk","Thor"]`
