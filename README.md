@@ -116,5 +116,7 @@ The Output Would be `prabhat10`<br><br>
 But this way is very old and not favored in modern projects, so to counter it we would be using ***String Interpolation***
 > ***String Interpolation***
 >
->> `console.log(`my name is ${name} and my repocount is ${repocount}` )`
+>> `console.log(my name is ${name} and my repocount is ${repocount} )`
+>>
+>
 
