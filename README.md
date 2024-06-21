@@ -105,10 +105,7 @@
 >>> `console.log(UserOne.email);`
 >>>
 >>> `console.log(UserTwo.email);`
->>> would have the same output as `Ruchi@gmail.com`
 >>>
->>
->> 
->
->
+>> would have the same output as `Ruchi@gmail.com`
+
 ##string
