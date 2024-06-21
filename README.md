@@ -28,6 +28,13 @@
 >>> `console.log(SuperHeroes)`
 >> - ***Objects***
 >>
+>>>let student = {
+    name : "prabhat",
+    age : 12,
+    division : "c",
+    rollcall : 77
+}
+>>>
 >> - ***Functions***
 >>
 >
