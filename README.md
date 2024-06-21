@@ -23,9 +23,9 @@
 >
 >> - ***Array***
 >>
->>>const SuperHeroes = ["shaktiman","hulk","Thor"]
+>>> `const SuperHeroes = ["shaktiman","hulk","Thor"]`
 >>>
->>>console.log(SuperHeroes)
+>>> `console.log(SuperHeroes)`
 >> - ***Objects***
 >>
 >> - ***Functions***
