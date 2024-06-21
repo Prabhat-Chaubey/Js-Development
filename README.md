@@ -43,37 +43,34 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 
 we cant go back and check the data type again and again so we have a fucntion `typeof` which helps to know the type of the data we are using 
 
->> `console.log(typeof myFunction)`
->>
->>`console.log(typeof SuperHeroes)`
->>
->>`console.log(typeof student)`
+> `console.log(typeof myFunction)`
 >
-> ### Stack and Heap memory 
+>`console.log(typeof SuperHeroes)`
 >
-> There are two storage ways, stack and heap memory type
+>`console.log(typeof student)`
 >
-> - ***Stack Memory (In primitive Types)***
+### Stack and Heap memory 
+
+There are two storage ways, stack and heap memory type
+- ***Stack Memory (In primitive Types)***
+- ***Heap Memory (In Non-Primitive Types)***
+
+- **Stack Memory**
+  In stack memory we get the copy and not the original one 
+
+> `let Firstname = "Prabhat";`
 >
-> - ***Heap Memory (In Non-Primitive Types)***
+>`let OneMoreName = Firstname;`
 >
->> **Stack Memory**
->> 
->> In stack memory we get the copy and not the original one 
->>>
->>> `let Firstname = "Prabhat";`
->>>
->>>`let OneMoreName = Firstname;`
->>>
->>> `console.log(Firstname);`
->>>
->>> `console.log(OneMoreName);`
->>>
->>> Till now one more name have value as `"Prabhat"`
->>>
->>> `OneMoreName = "Ruchi"`
->>> Now, Firstname -> Prabhat , OneMoreName -> Ruchi ,Because we made changes in the copy
->>
+> `console.log(Firstname);`
+>
+> `console.log(OneMoreName);`
+>
+> Till now one more name have value as `"Prabhat"`
+>
+> `OneMoreName = "Ruchi"`
+> Now, Firstname -> Prabhat , OneMoreName -> Ruchi ,Because we made changes in the copy
+
 >> **Heap Memory**
 >>>In HeapMemory we get the references , which means 
 >>>
