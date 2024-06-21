@@ -37,7 +37,12 @@
 >>
 >> - ***Functions***
 >>
->
+>>> `const myFunction = function(){`
+>>>
+>>>    `console.log("hello fucntion")`
+>>>
+>>> `}`
+myFunction();
 >>> 
 
 
@@ -45,18 +50,6 @@
 
 
 
-
-
-// objects
-
-let student = {
-    name : "prabhat",
-    age : 12,
-    division : "c",
-    rollcall : 77
-}
-console.log(student)
-console.log(student.name)
 
 
 
