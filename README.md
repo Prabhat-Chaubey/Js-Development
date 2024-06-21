@@ -89,59 +89,23 @@
 >>>
 >>> `console.log(UserOne);`
 >>>
->>> ![Alt](/Images/heapmemory1.png)
-
-
-
-
-
-
-
-
-
-/*         _________________________________
-UserOne -> |    {                           |
-           |    email : "abc@gmail.com",    |
-           |    upi : "abc123"              |
-           |        }                       |
-           _________________________________
-                        Heap Memory
-
-           Now its visible that the UserOne is having the refference on one heap memory
-*/
-
-
-
-let UserTwo = UserOne
-console.log(UserTwo);
-
-
-
-
-/*         _________________________________
-UserOne -> |    {                           |
-UserTwo -> |    email : "abc@gmail.com",    |
-           |    upi : "abc123"              |
-           |        }                       |
-           _________________________________
-                        Heap Memory
-
-           Now its visible that the UserOne and userTwo both having the refference on one heap memory
-*/
-
-
-
-
-UserTwo.email="Ruchi@gmail.com"
-
-
-
-
-/*
-Now SInce we have the refernce of same heap memory so it would update accordingly
-*/
-
-
-
-console.log(UserOne.email);
-console.log(UserTwo.email);
+>>> ![Alt](/Images/Heapmemory1.png)
+>>>
+>>>
+>>> `let UserTwo = UserOne`
+>>>
+>>> `console.log(UserTwo);`
+>>>
+>>> ![Alt](/Images/heapmemory2.png)
+>>>
+>>> `UserTwo.email="Ruchi@gmail.com"`
+>>>
+>>> **Now SInce we have the reference of same heap memory so it would update accordingly**
+>>>
+>>> `console.log(UserOne.email);`
+>>>
+>>> `console.log(UserTwo.email);`
+>>> would have the same output as `Ruchi@gmail.com`
+>>
+>
+##string
