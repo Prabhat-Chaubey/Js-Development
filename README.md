@@ -89,7 +89,7 @@
 >>>
 >>> `console.log(UserOne);`
 >>>
->>> ![Alt](/Images/heapmemory2.png)
+>>> ![Alt](/Images/heapmemory1.png)
 
 
 
