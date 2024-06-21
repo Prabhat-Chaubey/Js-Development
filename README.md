@@ -106,4 +106,7 @@ In HeapMemory we get the references , which means
 <br>
 `Const repocount = 10`
 <br>
+Now lets make a sentence by using there variables. <br>
+`Console.log(name + repocount)` <br>
+The Output Would be `prabhat10`<br>
 
