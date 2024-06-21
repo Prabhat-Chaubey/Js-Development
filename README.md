@@ -88,7 +88,8 @@
 >>>`let UserOne = {email : "abc@gmail.com",upi : "abc123"}`
 >>>
 >>> `console.log(UserOne);`
-
+>>>
+>>> ![Image](Images/Screenshot 2024-06-21 171654.png)
 
 
 
