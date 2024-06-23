@@ -121,5 +121,7 @@ But this way is very old and not favored in modern projects, so to counter it we
 >
 ## **1.3 Math and Numbers**
 There are various functions that we use from the maths library , if needed check from mdn documentations. Some of them for reference are <br>
-`tofixed(2)` <br>
+>
+> `tofixed(2)` <br>
+>
 this code get the two decimal places, for instance we i have `400` then `math.fixed(2)` would give the output as `400.00`
