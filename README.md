@@ -119,7 +119,7 @@ But this way is very old and not favored in modern projects, so to counter it we
 >> `console.log(my name is ${name} and my repocount is ${repocount} )`
 >>
 >
-## **1.3 Math and Numbers**
+## **1.4 Math and Numbers**
 There are various functions that we use from the maths library , if needed check from mdn documentations. Some of them for reference are <br>
 >
 > `tofixed(2)` <br>
@@ -143,4 +143,8 @@ This rounds off the value in normal for, if we want the lower range the `Math.fl
 > `Math.max()` <br>
 >
 > `Math.min()` <br>
+>
+## **1.5 Date and Time**
+>
+>![Alt](/Images/Date_and_time.png)
 >
