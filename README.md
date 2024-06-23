@@ -137,3 +137,10 @@ This is absolute value, this gives output as a positive number, even if the numb
 > `Math.round(4-3)` <br>
 >
 This rounds off the value in normal for, if we want the lower range the `Math.floor()` and if we want the upper range the `Math.ciel()` 
+>
+> `Math.random()`  this genrates a  random value which lies between 0 -  1<br>
+>
+> `Math.max()` <br>
+>
+> `Math.min(3)` <br>
+>
