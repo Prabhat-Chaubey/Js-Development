@@ -124,4 +124,16 @@ There are various functions that we use from the maths library , if needed check
 >
 > `tofixed(2)` <br>
 >
-this code get the two decimal places, for instance we i have `400` then `math.fixed(2)` would give the output as `400.00`
+this code get the two decimal places, for instance we i have `400` then `math.fixed(2)` would give the output as `400.00` <br>
+>
+> `toPrecision(3)` <br>
+>
+this code get the precision of 3 numbers, for instance we i have `123.9` then `math.toPrecision(3)` would give the output as `124` <br>
+>
+> `Math.abs(3)` <br>
+>
+This is absolute value, this gives output as a positive number, even if the number is negative.
+>
+> `Math.round(4-3)` <br>
+>
+This rounds off the value in normal for, if we want the lower range the `Math.floor()` and if we want the upper range the `Math.ciel()` 
