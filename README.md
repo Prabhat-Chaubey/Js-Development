@@ -142,5 +142,5 @@ This rounds off the value in normal for, if we want the lower range the `Math.fl
 >
 > `Math.max()` <br>
 >
-> `Math.min(3)` <br>
+> `Math.min()` <br>
 >
