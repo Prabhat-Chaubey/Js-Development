@@ -28,6 +28,8 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 >> `Unshift()` This function appends any element to the starting of the array.
 >>
 >> `Shift()` This function deletes the first element from the array.
+>>
+>> `Includes()` this Function is helpful to find if the element is prsent in the array or not , for example `NewArray.includes("Prabhat")` now if `"prabhat"` is present in the array `NewArray` then it would return `True` else it would return `False`
 
  - ***Objects***
 
