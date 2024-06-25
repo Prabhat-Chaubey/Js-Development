@@ -32,6 +32,8 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 >> `Includes()` this Function is helpful to find if the element is prsent in the array or not , for example `NewArray.includes("Prabhat")` now if `"prabhat"` is present in the array `NewArray` then it would return `True` else it would return `False`
 >>
 >> `Indexof()` this function would give the index of the element, in the prior example if `prabhat` is present then `NewArray.indexof("prabhat")` would give the index of `"prabhat"`
+>>
+>> `join()` this function is helpful as it converts the whole `array` into `String` format, `newArray = [1,2,3,4]` and output of `newArray.join()` would be `1,2,3,4`
 
  - ***Objects***
 
