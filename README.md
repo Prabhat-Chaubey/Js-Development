@@ -38,8 +38,14 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 >> - `Slice() and Splice()` these function have some what same work but the have very different method of working <br>
 >>      - `Slice()`<br> This function give the slice of array we demand, if theres an `array [1,2,3,4,5]` then the `array.slice(1,3)` would return the output as `[2,3]` <br>
 >>      - `Splice` <br> In this function the original array also gets affected in the same scenario `splice(1,3)` would return `[2,3,4]` but also the main array becomes `[1,5]`
->>  
-
+>>
+>> - `Concat Fuction` <br> this function is useful when we are contatinating two arrays, `Array1.concat(Array2)` but this is old practice now in mordern javascript we use different fucntion which is spread fucntion.
+>>
+>> - `Spread Function` <br> this function is veryuseful to merge two or more arrays, and hence it is quite used in mordern js, `Const ResultArray = [... Array1,...Array2]` this is how its done and `Resultarray` would have the merged array.
+>>
+>> - `to Conversion` <br> This function focuses on how we can convert it into array for example by using <br>
+>>      - `'.from()'` we can make an array, `Array.from("PRABHAT")` would give the output as `["P","R","A","B","H","A","T"]` <br>
+>>      - `'.of()'` we can make an array, `Array.of(var1,var2,var3)` and the output would be arrray of all those variable , and those variables might have int or string datatype. <br>
  - ***Objects***
 
 > `let student = {name : "prabhat",age : 12,division : "c",rollcall : 77}`
