@@ -35,8 +35,9 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 >>
 >> `join()` this function is helpful as it converts the whole `array` into `String` format, `newArray = [1,2,3,4]` and output of `newArray.join()` would be `1,2,3,4`
 >>
->> - `Slice() and Splice()` these function have some what same work but the have very different method of working <br>
->> - sub `Slice()`<br> This function give the slice of array we demand, if theres an `array [1,2,3,4,5]` then the `array.slice(1,3)` would return the output as `[2,3]` <br> `Splice` <br> In this function the original array also gets affected in the same scenario `splice(1,3)` would return `[2,3,4]` but also the main array becomes `[1,5]`
+>> * `Slice() and Splice()` these function have some what same work but the have very different method of working <br>
+>> - `Slice()`<br> This function give the slice of array we demand, if theres an `array [1,2,3,4,5]` then the `array.slice(1,3)` would return the output as `[2,3]` <br>
+>> - `Splice` <br> In this function the original array also gets affected in the same scenario `splice(1,3)` would return `[2,3,4]` but also the main array becomes `[1,5]`
 
  - ***Objects***
 
