@@ -18,6 +18,16 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 > `const SuperHeroes = ["shaktiman","hulk","Thor"]`
 >
 > `console.log(SuperHeroes)`
+> 
+> There are various function that we perform on `Array` and some of those functions are
+>
+>> `Push()` This function appends element to the end of an exsting array.
+>>
+>> `Pop()` This function removes the last element from the array.
+>>
+>> `Unshift()` This function appends any element to the starting of the array.
+>>
+>> `Shift()` This function deletes the first element from the array.
 
  - ***Objects***
 
