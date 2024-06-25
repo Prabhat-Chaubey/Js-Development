@@ -21,7 +21,7 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 > 
 > There are various function that we perform on `Array` and some of those functions are
 >
->> `Push()` This function appends element to the end of an exsting array.
+>> - `Push()` This function appends element to the end of an exsting array.
 >>
 >> `Pop()` This function removes the last element from the array.
 >>
