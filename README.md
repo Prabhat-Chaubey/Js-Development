@@ -23,21 +23,22 @@ Data is categorized into two type **Primitive/value** type and **Non-Primitive/R
 >
 >> - `Push()` This function appends element to the end of an exsting array.
 >>
->> `Pop()` This function removes the last element from the array.
+>> - `Pop()` This function removes the last element from the array.
 >>
->> `Unshift()` This function appends any element to the starting of the array.
+>> - `Unshift()` This function appends any element to the starting of the array.
 >>
->> `Shift()` This function deletes the first element from the array.
+>> - `Shift()` This function deletes the first element from the array.
 >>
->> `Includes()` this Function is helpful to find if the element is prsent in the array or not , for example `NewArray.includes("Prabhat")` now if `"prabhat"` is present in the array `NewArray` then it would return `True` else it would return `False`
+>> - `Includes()` this Function is helpful to find if the element is prsent in the array or not , for example `NewArray.includes("Prabhat")` now if `"prabhat"` is present in the array `NewArray` then it would return `True` else it would return `False`
 >>
->> `Indexof()` this function would give the index of the element, in the prior example if `prabhat` is present then `NewArray.indexof("prabhat")` would give the index of `"prabhat"`
+>> - `Indexof()` this function would give the index of the element, in the prior example if `prabhat` is present then `NewArray.indexof("prabhat")` would give the index of `"prabhat"`
 >>
->> `join()` this function is helpful as it converts the whole `array` into `String` format, `newArray = [1,2,3,4]` and output of `newArray.join()` would be `1,2,3,4`
+>> - `join()` this function is helpful as it converts the whole `array` into `String` format, `newArray = [1,2,3,4]` and output of `newArray.join()` would be `1,2,3,4`
 >>
 >> - `Slice() and Splice()` these function have some what same work but the have very different method of working <br>
 >>      - `Slice()`<br> This function give the slice of array we demand, if theres an `array [1,2,3,4,5]` then the `array.slice(1,3)` would return the output as `[2,3]` <br>
 >>      - `Splice` <br> In this function the original array also gets affected in the same scenario `splice(1,3)` would return `[2,3,4]` but also the main array becomes `[1,5]`
+>>  
 
  - ***Objects***
 
