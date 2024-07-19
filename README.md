@@ -175,7 +175,7 @@ This rounds off the value in normal for, if we want the lower range the `Math.fl
 >
 >![Alt](/Images/Date_and_time.png)
 >
-## **1.5 Date and Time**
+## **1.6 Objects**
 >
 >![Alt](/Images/Objects.png)
 >
